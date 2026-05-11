@@ -10,6 +10,7 @@ Sometimes I make videogames, sometimes I make other stuff, honestly it depends o
   <img src="https://img.shields.io/badge/LinkedIn-fa5c5c?style=for-the-badge&logo=itchio&logoColor=white" />
 </a>
 # Stats
+
 ![](https://github-readme-stats.shion.dev/api?username=Josip&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Josip&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
