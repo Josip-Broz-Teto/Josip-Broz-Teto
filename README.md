@@ -11,7 +11,7 @@ Sometimes I make videogames, sometimes I make other stuff, honestly it depends o
 # Links
 
 <a href="https://josipbrozteto.itch.io/">
-  <img src="https://img.shields.io/badge/LinkedIn-fa5c5c?style=for-the-badge&logo=itchio&logoColor=white" />
+  <img src="https://img.shields.io/badge/itch.io-fa5c5c?style=for-the-badge&logo=itchio&logoColor=white" />
 </a>
 
 # Stats
