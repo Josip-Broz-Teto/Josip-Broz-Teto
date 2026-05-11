@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
+Sometimes I make videogames, sometimes I make other stuff, honestly it depends on the day.
 
-<!--
-**Josip-Broz-Teto/Josip-Broz-Teto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Techstack
+- C# godot
+- React/React native
+- C++/python
 
-Here are some ideas to get you started:
+# Links
+- ![](https://josipbrozteto.itch.io/)
+# Stats
+![](https://github-readme-stats.shion.dev/api?username=Josip&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Josip&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
